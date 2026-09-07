@@ -1,0 +1,99 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Doc DN v2
+  structure:
+    - type: section
+      key: section-1
+      title: Accueil
+      path: home
+      description: ""
+      icon: house
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: Home
+          path: home
+          default: true
+          content:
+            directory: ./home
+    - type: section
+      key: section-6
+      title: Prise en main
+      path: prise-en-main
+      icon: rocket
+      children:
+        - type: space
+          key: space-6
+          title: Prise en main
+          path: product-docs
+          default: true
+          content:
+            directory: ./prise-en-main
+    - type: section
+      key: section-2
+      title: Guide administrateur
+      path: guide-administrateur
+      description: ""
+      icon: book-blank
+      children:
+        - type: space
+          key: space-2
+          title: Documentation
+          path: documentation
+          default: true
+          content:
+            directory: ./guide-administrateur
+    - type: section
+      key: section-4
+      title: Guide instructeur
+      path: guide-instructeur
+      description: ""
+      children:
+        - type: space
+          key: space-4
+          title: Guide instructeur
+          path: product-docs
+          default: true
+          content:
+            directory: ./guide-instructeur
+    - type: section
+      key: section-5
+      title: Guide usager
+      path: guide-usager
+      description: ""
+      children:
+        - type: space
+          key: space-5
+          title: Guide usager
+          path: product-docs
+          default: true
+          content:
+            directory: ./guide-usager
+    - type: section
+      key: section-3
+      title: Centre d'aide
+      path: help-center
+      description: ""
+      icon: life-ring
+      children:
+        - type: space
+          key: space-3
+          title: Help Center
+          path: help-center
+          default: true
+          content:
+            directory: ./help-center
+    - type: section
+      key: section-7
+      title: Reference API
+      path: reference
+      description: ""
+      children:
+        - type: space
+          key: space-7
+          title: Reference
+          path: reference
+          default: true
+          content:
+            directory: ./reference
