@@ -2,7 +2,7 @@
 
 Pour les démarches avec **voies de recours,** il est possible de configurer un **accusé de lecture**. L‘activation se fait depuis la tuile _Accusé de lecture_ (en bas de la page d’accueil de la démarche).
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2024-05-15 à 16.17.20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-05-15 à 16.17.20 (3).png" alt=""><figcaption></figcaption></figure>
 
 \
 \

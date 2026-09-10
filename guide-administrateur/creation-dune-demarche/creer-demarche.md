@@ -2,11 +2,11 @@
 
 Pour créer votre formulaire, vous devez cliquer sur le bouton « Nouvelle Démarche » situé en haut à droite de votre tableau de bord.
 
-<figure><img src="../../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (357) (3).png" alt=""><figcaption></figcaption></figure>
 
 La création d’une nouvelle démarche peut se faire soit à partir de zéro soit à partir d’une démarche existante. Cette dernière possibilité permet de cloner c’est-à-dire de copier une démarche pré-existante, déjà publiée et utilisée par une autre administration afin de l’adapter à sa situation.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-08-06 à 11.16.01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 11.16.01 (3).png" alt=""><figcaption></figcaption></figure>
 
 Pour chercher une démarche dans le catalogue, il suffit d'indiquer l'intitulé la démarche recherchée dans le moteur de recherche puis cliquez sur le bouton « rechercher ».
 
@@ -16,7 +16,7 @@ Une copie de la démarche apparaît automatiquement dans les démarches en test.
 
 **Vous pouvez également rechercher une démarche depuis l'onglet** [**"toutes les démarches".**](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#id-4.-decouvrir-le-tableau-de-bord-de-lensemble-des-demarches-publiees)
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (3).png" alt=""><figcaption></figcaption></figure>
 
 Le principe est le même, il vous suffit de rechercher la démarche que vous souhaitez dématérialiser et la cloner depuis ce tableau de bord.
 

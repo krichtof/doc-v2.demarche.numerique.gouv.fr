@@ -8,7 +8,7 @@ Pour créer un champ vous devez :
 
 Le type de champ formate la manière dont l'usager vous donnera l'information demandée. Plusieurs types de champ existent, ils sont désormais **regroupés par catégories dans la liste déroulante** :
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-08-06 à 15.31.02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 15.31.02 (3).png" alt=""><figcaption></figcaption></figure>
 
 Vous pouvez ajouter une description afin de mieux renseigner l’usager sur l’information que vous attendez.
 
@@ -18,4 +18,4 @@ Il est possible de rendre un champ obligatoire. Il suffit alors de remplir un ch
 
 Avant de cocher cette case, assurez-vous que tous les usagers disposeront de l'information demandée. Dans le cas contraire, l'usager ne pourra pas effectuer la démarche.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-10-21 à 11.41.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 11.41.34 (3).png" alt=""><figcaption></figcaption></figure>
