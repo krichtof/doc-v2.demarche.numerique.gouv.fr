@@ -6,7 +6,11 @@
 
 La publication de la démarche génère un lien de la forme : "https://www.demarche.numerique.gouv.fr/commencer/xxxxx". Les usagers qui disposent de ce lien pourront déposer un dossier. Pour cela, rendez-vous dans l'onglet « Test et publication », puis cliquez sur le bouton « Publier », situé en haut à droite de votre écran.
 
+<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+
 La fenêtre suivante apparaît :
+
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 Nous vous recommandons de personnaliser la partie de l'URL située après "/commencer/" avec des mots lisibles par l'usager. La partie "https://www.demarche.numerique.gouv.fr/commencer/" de l'URL n'est pas modifiable.
 
@@ -19,3 +23,7 @@ Vous devez ensuite indiquer où les usagers trouveront le lien de la démarche. 
 ## **Modifier le lien URL de sa démarche**
 
 Vous pouvez modifier le lien URL de votre démarche, même après sa publication. Il suffit pour cela de cliquer sur le pictogramme "crayon" à côté du lien de la démarche depuis l'interface administrateur.
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-02-24 à 11.28.58.png" alt=""><figcaption><p>Modification du lien de la démarche depuis l'interface administrateur</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-02-24 à 11.29.52.png" alt=""><figcaption><p>Modification du lien de la démarche</p></figcaption></figure>
