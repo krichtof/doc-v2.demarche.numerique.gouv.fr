@@ -7,9 +7,9 @@ icon: hand-wave
 
 # Bienvenue
 
-## **Webinaire :**
-
+{% hint style="success" %}
 Participez à nos webinaires dédiés aux instructeurs, **organisés chaque troisième mardi du mois,** pour vous former et poser toutes vos questions. **L'invitation se trouve dans l'onglet "nouveautés" de votre interface instructeur.**
+{% endhint %}
 
 ## Qu'est-ce qu'un instructeur ?
 
