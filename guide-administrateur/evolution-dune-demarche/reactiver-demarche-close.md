@@ -4,8 +4,6 @@ Vous avez la possibilité de réactiver une démarche close à tout moment afin 
 
 Pour cela, cliquez sur le bouton **« Terminées »** afin de rechercher la démarche à réactiver, comme illustré ci-dessous.
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
-
 Cliquez ensuite sur le bouton " modifier " afin d'accéder au tableau de bord de la démarche :
 
 <figure><img src="https://storage.crisp.chat/users/helpdesk/website/-/9/2/4/3/924377d9b4868800/image_mfo2on.png" alt=""><figcaption></figcaption></figure>
