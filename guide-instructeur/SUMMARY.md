@@ -13,20 +13,19 @@
 
 ## Instruction d'un dossier
 
-* Présentation des onglets
-* Dossier en construction
-* Passer le dossier en instruction
-* Repasser le dossier en "instruction" au statut en "construction"
-* Prendre une décision sur le dossier
-* Repasser le dossier en instruction
-* Archiver un dossier
-
+* [Présentation des onglets](instruction-dun-dossier/presentation-des-onglets.md)
+* [Dossier en construction](instruction-dun-dossier/dossier-en-construction.md)
+* [Passer le dossier en instruction](instruction-dun-dossier/passer-le-dossier-en-instruction.md)
+* [Repasser le dossier en "instruction" au statut en "construction"](instruction-dun-dossier/repasser-le-dossier-en-instruction-au-statut-en-construction.md)
+* [Prendre une décision sur le dossier](instruction-dun-dossier/prendre-une-decision-sur-le-dossier.md)
+* [Repasser le dossier en instruction](instruction-dun-dossier/repasser-le-dossier-en-instruction.md)
+* [Archiver un dossier](instruction-dun-dossier/archiver-un-dossier.md)
 
 ## Avis d'experts
 
-* Présentation des avis externes
-* Solliciter des experts invités
-* Demander un avis
+* [Présentation des avis externes](avis-dexperts/presentation-des-avis-externes.md)
+* [Solliciter des experts invités](avis-dexperts/solliciter-des-experts-invites.md)
+* [Demander un avis](avis-dexperts/demander-un-avis.md)
 
 ## Communiquer avec l'usager
 
