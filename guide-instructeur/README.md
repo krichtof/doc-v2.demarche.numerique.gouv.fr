@@ -9,7 +9,10 @@ icon: hand-wave
 
 {% hint style="success" %}
 Participez à nos webinaires dédiés aux instructeurs, **organisés chaque troisième mardi du mois,** pour vous former et poser toutes vos questions. **L'invitation se trouve dans l'onglet "nouveautés" de votre interface instructeur.**
+
+En tant qu'instructeur, vous êtes tenu informé de l’**actualité** et des **dernières fonctionnalités développées** par notre équipe grâce à l’onglet **« Nouveautés »**, situé en haut de votre interface. C’est également depuis cet onglet que vous pouvez retrouver les **invitations** et les **liens de replay** de nos **webinaires**.
 {% endhint %}
+
 
 ## Qu'est-ce qu'un instructeur ?
 
