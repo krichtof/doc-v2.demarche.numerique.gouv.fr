@@ -34,16 +34,6 @@
 * [Envoyer un message en masse](communiquer-avec-lusager/envoyer-un-message-en-masse.md)
 * [Prendre rendez-vous](communiquer-avec-lusager/prendre-rendez-vous.md)
 
-## Instruction en masse des dossiers
-
-* [Suivre les dossiers en masse](instruction-en-masse-des-dossiers/suivre-les-dossiers-en-masse.md)
-* [Passer en instruction des dossiers en masse](instruction-en-masse-des-dossiers/passer-en-instruction-des-dossiers-en-masse.md)
-* [Demander l'avis d'un expert en masse](instruction-en-masse-des-dossiers/demander-lavis-dun-expert-en-masse.md)
-* [Envoyer un message en masse aux usagers](instruction-en-masse-des-dossiers/envoyer-un-message-en-masse-aux-usagers.md)
-* [Prendre des decisions en masse](instruction-en-masse-des-dossiers/prendre-des-decisions-en-masse.md)
-* [Archiver des dossiers en masse](instruction-en-masse-des-dossiers/archiver-des-dossiers-en-masse.md)
-* [Supprimer des dossiers en masse](instruction-en-masse-des-dossiers/supprimer-des-dossiers-en-masse.md)
-
 ## Exporter les dossiers
 
 * [Exporter les dossiers](exporter-les-dossiers/exporter-les-dossiers.md)
