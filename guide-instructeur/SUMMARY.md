@@ -26,7 +26,6 @@
 ## Communiquer avec l'usager
 
 * [Envoyer un message à un usager](communiquer-avec-lusager/envoyer-un-message-a-un-usager.md)
-* [Envoyer un message en masse](communiquer-avec-lusager/envoyer-un-message-en-masse.md)
 * [Prendre rendez-vous](communiquer-avec-lusager/prendre-rendez-vous.md)
 
 ## Exporter les dossiers
