@@ -14,11 +14,11 @@ Pour utiliser le bouton « mon avis », il faut au préalable **avoir publié vo
 
 Sur l'interface administrateur, vous retrouverez la tuile "Bouton MonAvis" avec les instructions à suivre.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 16.23.46 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 16.23.46.png" alt=""><figcaption></figcaption></figure>
 
 Vous serez ensuite redirigé vers le site [https://jedonnemonavis.numerique.gouv.fr](https://jedonnemonavis.numerique.gouv.fr) pour effectuer les paramétrages
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-24 à 11.29.06 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-24 à 11.29.06.png" alt=""><figcaption></figcaption></figure>
 
 **Si vous n’avez pas de compte** sur le site [https://jedonnemonavis.numerique.gouv.fr](https://jedonnemonavis.numerique.gouv.fr), **Créez-en un. Vous pouvez également vous authentifier avec Proconnect.**
 
@@ -36,22 +36,22 @@ Vous serez ensuite redirigé vers le site [https://jedonnemonavis.numerique.gouv
 
 Une fois connecté à "Je donne mon avis", cliquez sur "Ajouter un service", en l'occurrence le service numérique que vous proposez par le biais de votre démarche.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 15.52.50 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 15.52.50.png" alt=""><figcaption></figcaption></figure>
 
 \- Paramétrez ensuite le formulaire de demande d'avis en cliquant sur "créer un formulaire"
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 15.54.41 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 15.54.41.png" alt=""><figcaption></figcaption></figure>
 
 **Vous devrez ensuite paramétrer l'emplacement de votre demande d'avis**
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 16.20.21 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 16.20.21.png" alt=""><figcaption></figcaption></figure>
 
 Une fois l'emplacement créé et les paramètres renseignés, un code sera généré. Il faudra copier et coller ce code dans la tuile "Bouton mon avis" de **demarche.numerique.gouv.fr**. Vous pourrez également déterminer si vous souhaitez que le bouton "Je donne mon avis" soit blanc ou bleu.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 16.25.30 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 16.25.30.png" alt=""><figcaption></figcaption></figure>
 
 ### Suivez en direct la satisfaction des usagers :
 
 Grace à l'observatoire, vous aurez la possibilité de suivre, en temps réel, le niveau de satisfaction de votre démarche.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 16.27.59 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 16.27.59.png" alt=""><figcaption></figcaption></figure>

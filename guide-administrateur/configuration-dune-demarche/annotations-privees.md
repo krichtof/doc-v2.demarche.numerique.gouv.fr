@@ -8,12 +8,12 @@ A titre d’exemple, pour une démarche de demande provisoire de titre de travai
 
 Pour créer des annotations privées, rendez-vous dans l’onglet « Annotations privées ». Il convient ensuite d’ajouter vos annotations privées comme des champs normaux. Le modèle est exactement le même que pour le formulaire usager, c’est pourquoi on parle parfois de « formulaire instructeur ».
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 12.15.39 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 12.15.39.png" alt=""><figcaption></figcaption></figure>
 
 La création des annotations privées est identique à la création du formulaire usager. Il s'agit d'une succession de champs. Les champs sont automatiquement enregistrés.
 
 Les champs dans les annotations privées peuvent être conditionnés et rendus obligatoires.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2026-02-04 à 15.56.11 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2026-02-04 à 15.56.11.png" alt=""><figcaption></figcaption></figure>
 
 Une fois le formulaire annotations privées créé, vous pouvez alors cliquer sur « Continuer ».
