@@ -33,3 +33,12 @@
 * [Exporter les dossiers](exporter-les-dossiers/exporter-les-dossiers.md)
 * [Exporter les pièces jointes](exporter-les-dossiers/exporter-les-pieces-jointes.md)
 * [Personnaliser les exports](exporter-les-dossiers/personnaliser-les-exports.md)
+
+## Autres fonctionnalités
+
+***
+
+* [Notifications sur les dossiers](notifications-sur-les-dossiers.md)
+* [Labels](labels.md)
+* [Gestion de la démarche](gestion-de-la-demarche.md)
+* [Accompagnement des usagers](accompagnement-des-usagers.md)
