@@ -4,8 +4,8 @@
 
 ## Tableau de bord
 
-* [Le tableau de suivi des procédures](tableau-de-bord/le-tableau-de-suivi-des-procedures.md)
-* [Suivre les dossiers](tableau-de-bord/suivre-les-dossiers.md)
+* [Suivi des procédures](tableau-de-bord/le-tableau-de-suivi-des-procedures.md)
+* [Suivi des dossiers](tableau-de-bord/suivre-les-dossiers.md)
 * [Personnaliser le suivi des dossiers](tableau-de-bord/personnaliser-le-suivi-des-dossiers.md)
 * [Filtrer les dossiers](tableau-de-bord/filtrer-les-dossiers.md)
 * [Trier les dossiers](tableau-de-bord/trier-les-dossiers.md)
