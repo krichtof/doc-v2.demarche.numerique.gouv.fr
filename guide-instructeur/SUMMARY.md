@@ -36,9 +36,7 @@
 
 ## Autres fonctionnalités
 
-***
-
-* [Notifications sur les dossiers](notifications-sur-les-dossiers.md)
-* [Labels](labels.md)
-* [Gestion de la démarche](gestion-de-la-demarche.md)
-* [Accompagnement des usagers](accompagnement-des-usagers.md)
+* [Notifications sur les dossiers](autres-fonctionnalites/notifications-sur-les-dossiers.md)
+* [Labels](autres-fonctionnalites/labels.md)
+* [Gestion de la démarche](autres-fonctionnalites/gestion-de-la-demarche.md)
+* [Accompagnement des usagers](autres-fonctionnalites/accompagnement-des-usagers.md)
