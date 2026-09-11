@@ -42,3 +42,9 @@
 * [Prendre des decisions en masse](instruction-en-masse-des-dossiers/prendre-des-decisions-en-masse.md)
 * [Archiver des dossiers en masse](instruction-en-masse-des-dossiers/archiver-des-dossiers-en-masse.md)
 * [Supprimer des dossiers en masse](instruction-en-masse-des-dossiers/supprimer-des-dossiers-en-masse.md)
+
+## Exporter les dossiers
+
+* [Exporter les dossiers](exporter-les-dossiers/exporter-les-dossiers.md)
+* [Exporter les pièces jointes](exporter-les-dossiers/exporter-les-pieces-jointes.md)
+* [Personnaliser les exports](exporter-les-dossiers/personnaliser-les-exports.md)
