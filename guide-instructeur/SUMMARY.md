@@ -20,6 +20,7 @@
 * [Prendre une décision sur le dossier](instruction-dun-dossier/prendre-une-decision-sur-le-dossier.md)
 * [Repasser le dossier en instruction](instruction-dun-dossier/repasser-le-dossier-en-instruction.md)
 * [Archiver un dossier](instruction-dun-dossier/archiver-un-dossier.md)
+* [Supprimer un dossier](instruction-dun-dossier/supprimer-un-dossier.md)
 
 ## Avis d'experts
 
