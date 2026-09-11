@@ -72,7 +72,7 @@ Lorsque cette option est activée, les instructeurs peuvent **proposer des rende
 
 <figure><img src="../.gitbook/assets/image (322).png" alt=""><figcaption></figcaption></figure>
 
-**Pour plus d'information concernant la prise de rendez-vous, vous pouvez rejoindre la section prévue à cet effet.
+Pour plus d'information concernant la prise de rendez-vous, vous pouvez rejoindre [la section prévue à cet effet](../communiquer-avec-lusager/prendre-rendez-vous.md).
 
 ## Reaffectations
 
