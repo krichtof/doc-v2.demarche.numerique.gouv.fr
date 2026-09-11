@@ -67,7 +67,12 @@ Cet onglet contient également :
 
 ## La prise de rendez-vous
 
-Voir la section **Communiquer avec l'usager**
+L'**onglet « Rendez-vous »** apparaît automatiquement dans chaque dossier si les administrateurs de la démarche ont activé et configuré la fonctionnalité de **prise de rendez-vous**.\
+Lorsque cette option est activée, les instructeurs peuvent **proposer des rendez-vous** aux usagers ayant déposé un dossier.
+
+<figure><img src="../.gitbook/assets/image (322).png" alt=""><figcaption></figcaption></figure>
+
+**Pour plus d'information concernant la prise de rendez-vous, vous pouvez rejoindre la section prévue à cet effet.
 
 ## Reaffectations
 
