@@ -2,7 +2,7 @@
 
 L’instructeur a accès à un ensemble de fonctionnalités :
 
-## Demande :
+## Demande
 
 Cet onglet est un récapitulatif du dossier qui permet notamment d'identifier le demandeur et affiche les champs du formulaire tels que remplis par l’usager.
 

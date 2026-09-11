@@ -1,7 +1,4 @@
 ---
-description: >-
-  Everything you need to build, deploy, and manage your projects on the
-  platform.
 icon: hand-wave
 ---
 
@@ -12,7 +9,6 @@ Participez à nos webinaires dédiés aux instructeurs, **organisés chaque troi
 
 En tant qu'instructeur, vous êtes tenu informé de l’**actualité** et des **dernières fonctionnalités développées** par notre équipe grâce à l’onglet **« Nouveautés »**, situé en haut de votre interface. C’est également depuis cet onglet que vous pouvez retrouver les **invitations** et les **liens de replay** de nos **webinaires**.
 {% endhint %}
-
 
 ## Qu'est-ce qu'un instructeur ?
 

@@ -21,7 +21,7 @@ De son côté, **l’usager peut également savoir si son message a été lu**.
 
 <figure><img src="../.gitbook/assets/image (326).png" alt=""><figcaption></figcaption></figure>
 
-## Envoi d'un message en masse à plusieurs usagers
+## Envoi d'un message en masse
 
 Vous pouvez envoyer un **message collectif** à plusieurs usagers en même temps.\
 Cette fonctionnalité s’applique aussi bien aux **dossiers suivis** qu’aux **dossiers non suivis** par un instructeur.
