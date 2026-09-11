@@ -52,7 +52,7 @@ Le dossier passe automatiquement dans l’onglet des dossiers traités.
 
 Quelle que soit la décision du dossier, l'instructeur a la possibilité de joindre une pièce jointe à la décision en cliquant sur "ajouter un justificatif".&#x20;
 
-## Repasser un dossier en instruction&#x20;
+## Repasser un dossier en instruction
 
 Une fois la décision prise, **si celle-ci a été prise par erreur ou si l'instructeur souhaite revenir sur sa décision, il est possible de repasser le dossier en instruction**.
 

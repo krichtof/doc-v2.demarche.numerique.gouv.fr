@@ -12,11 +12,8 @@
 ## Instruction d'un dossier
 
 * [Présentation des onglets](instruction-dun-dossier/presentation-des-onglets.md)
-* [Dossier en construction](instruction-dun-dossier/dossier-en-construction.md)
 * [Passer le dossier en instruction](instruction-dun-dossier/passer-le-dossier-en-instruction.md)
-* [Repasser le dossier en "instruction" au statut en "construction"](instruction-dun-dossier/repasser-le-dossier-en-instruction-au-statut-en-construction.md)
 * [Prendre une décision sur le dossier](instruction-dun-dossier/prendre-une-decision-sur-le-dossier.md)
-* [Repasser le dossier en instruction](instruction-dun-dossier/repasser-le-dossier-en-instruction.md)
 * [Archiver un dossier](instruction-dun-dossier/archiver-un-dossier.md)
 * [Supprimer un dossier](instruction-dun-dossier/supprimer-un-dossier.md)
 
