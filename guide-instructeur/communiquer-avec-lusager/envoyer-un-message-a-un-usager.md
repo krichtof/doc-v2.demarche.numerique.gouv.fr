@@ -21,6 +21,13 @@ De son côté, **l’usager peut également savoir si son message a été lu**.
 
 <figure><img src="../.gitbook/assets/image (326).png" alt=""><figcaption></figcaption></figure>
 
-## Envoi d'un message à plusieurs usagers
+## Envoi d'un message en masse à plusieurs usagers
 
-**Il est possible d’envoyer un message à plusieurs usagers à la fois**. Cette fonctionnalité est disponible depuis les onglets « à suivre », « suivis par moi », « traités » et « au total ». Pour en savoir plus, vous pouvez cliquer [**ici**](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-instructeur#id-4.-instruction-en-masse-des-dossiers) **.**
+Vous pouvez envoyer un **message collectif** à plusieurs usagers en même temps.\
+Cette fonctionnalité s’applique aussi bien aux **dossiers suivis** qu’aux **dossiers non suivis** par un instructeur.
+
+Pour les dossiers suivis, il vous suffit de **sélectionner les dossiers concernés**, puis de cliquer sur **« Autres actions multiples »**, et enfin sur **« Envoyer un message aux usagers »**.
+
+<figure><img src="../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (333).png" alt=""><figcaption></figcaption></figure>

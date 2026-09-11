@@ -65,3 +65,30 @@ Les **administrateurs de la démarche** ont la possibilité de **paramétrer le 
 **ATTENTION** : l'acceptation d'un dossier est une action créatrice de droits. Revenir sur cette décision dans un **délai supérieur à 4 mois** après l'avoir prise peut vous exposer à des risques de poursuites de la part de l'usager.&#x20;
 {% endhint %}
 
+## Prendre une decision en masse sur plusieurs dossiers
+
+Quelle que soit la décision (acceptation, classement sans suite ou refus des dossiers), **le processus est le même.**&#x20;
+
+Dans l'onglet des dossiers suivis, l'instructeur doit cocher la case tout en haut pour sélectionner tous les dossiers, ou bien les cases correspondants aux dossiers qu'il souhaite instruire. Puis, il doit cliquer sur le bouton bleu "instruire les dossiers" et sélectionner la décision souhaitée entre "Accepter les dossiers", "Refuser les dossiers" ou bien "Classer sans suite les dossiers".&#x20;
+
+A savoir que le motif de la décision pour les dossiers acceptés est optionnel, il est en revanche **obligatoire** pour les dossiers refusés et classés sans suite.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 14.58.17.png" alt=""><figcaption></figcaption></figure>
+
+**Le motif renseigné sera le même pour tous les dossiers sélectionnés puisqu'il s'agit d'une action en masse**. L'usager sera notifié par email du motif de la décision.&#x20;
+
+Un justification optionnel peut aussi être envoyé en masse à tous les dossiers sélectionnés.&#x20;
+
+<figure><img src="../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
+
+Une fois la décision "de masse", le bandeau suivant apparaîtra vous informant qu'une action de masse est en cours:&#x20;
+
+<figure><img src="../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+A noter : Les actions de masse peuvent prendre un certain temps en fonction du nombre de dossiers sélectionnés. Il se peut que vous deviez recharger la page pour que l'action soit effectuée.&#x20;
+{% endhint %}
+
+Lorsque l'action de masse est effectuée, vous retrouverez les dossiers qui ont été instruits dans l'onglet des dossiers "traités": un bandeau vert vous informe que l'action de masse d'instruction des dossiers est terminée.&#x20;
+
+<figure><img src="../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>

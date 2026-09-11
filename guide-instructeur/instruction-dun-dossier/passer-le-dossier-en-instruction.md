@@ -1,5 +1,7 @@
 # Passer le dossier en instruction
 
+## Passage d'un dossier en instruction
+
 Une fois le dossier complet, il convient de **passer ce dossier au statut « En instruction » afin d'empêcher toute nouvelle modification par l'usager**_._ Pour cela, cliquez sur le bouton « **En construction» en haut à droite de l’écran puis cliquez sur le bouton « Passer en instruction ».**&#x20;
 
 <figure><img src="../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
@@ -14,3 +16,8 @@ Toutefois, les échanges de messages et de documents entre l’instructeur et l�
 
 Par ailleurs, pour le moment,  les dossiers en instruction n'expirent pas.&#x20;
 
+## Passage en instruction de dossiers en masse
+
+Sur le même principe que l'action de suivi des dossiers, il vous suffit de cocher les cases des dossiers que vous souhaitez passer en instruction puis cliquer sur le bouton "Passer en instruction". Un message de confirmation s'affichera pour valider l'action.&#x20;
+
+<figure><img src="../.gitbook/assets/image (331).png" alt=""><figcaption></figcaption></figure>

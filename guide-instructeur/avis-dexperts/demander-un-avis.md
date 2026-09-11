@@ -19,8 +19,12 @@ L'instructeur a la possibilité de **relancer l'expert ou de révoquer la demand
 
 <figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>Relancer l'expert ou révoquer la demande d'avis </p></figcaption></figure>
 
-## Demander un avis pour plusieurs dossiers
+## Demander un avis en masse
 
-En tant qu'instructeur,  vous avez désormais la **possibilité de demander l'avis d'expert pour plusieurs dossiers à la fois**. Cette fonctionnalité est disponible en sélectionnant les dossiers concernés depuis l’onglet « **suivis par moi** » en cliquant sur le bouton « **Autres actions multiples** ». Pour en savoir plus, vous pouvez consulter la documentation dédiée [en cliquant ici](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-instructeur#id-4.-instruction-en-masse-des-dossiers).&#x20;
+Vous pouvez demander l'avis d'expert pour plusieurs dossiers à la fois. Cette fonctionnalité est disponible depuis l’onglet « suivis par moi » en cliquant sur le bouton « Autres actions multiples ».
 
-<figure><img src="../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+Vous devrez alors compléter la demande d'avis.
