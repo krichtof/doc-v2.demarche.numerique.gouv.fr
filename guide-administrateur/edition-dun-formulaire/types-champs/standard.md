@@ -12,17 +12,17 @@ Ce champ est similaire au précédent à la différence qu'il est adapté à une
 
 <figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption><p>Champ "texte long", en tant qu'usager</p></figcaption></figure>
 
-## Nombre décimal
-
-L'usager doit renseigner un nombre qui peut être décimal.
-
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption><p>Champ "nombre décimal", en tant qu'usager</p></figcaption></figure>
-
 ## Nombre entier
 
 L'usager doit renseigner un nombre entier.
 
 <figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption><p>Champ "nombre entier", en tant qu'usager</p></figcaption></figure>
+
+## Nombre décimal
+
+L'usager doit renseigner un nombre qui peut être décimal.
+
+<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption><p>Champ "nombre décimal", en tant qu'usager</p></figcaption></figure>
 
 ## Date
 
@@ -56,7 +56,8 @@ Voici l'écran en cas d'erreur dans la saisie, bloquant le dépôt du dossier.
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2025-03-26 à 12.05.51.png" alt=""><figcaption></figcaption></figure>
 
-## Le champ "pièce à joindre"
+
+## Pièce à joindre
 
 Ce champ permet à l'usager d'ajouter au dossier un document. La taille de chaque pièce justificative doit être inférieure à 200 Mo.\
 Vous pouvez désormais choisir la nature de la pièce à joindre entre:
@@ -78,3 +79,20 @@ Vous avez la possibilité de joindre un modèle de pièce justificative que les 
 
 <figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption><p>Champ "pièce justificative" avec modèle en tant qu'usager</p></figcaption></figure>
 
+## Bloc répétable
+
+Ce champ permet à l'usager de saisir un certain nombre de champs autant de fois qu'il le souhaite. Pour savoir comment l'utiliser, je vous invite à vous rendre sur la page dédiée en cliquant [ici](https://faq.demarches-simplifiees.fr/article/48-les-blocs-repetables).
+
+<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption><p>Exemple de "bloc répétable", en tant qu'usager</p></figcaption></figure>
+
+## Lien vers un autre dossier
+
+Ce type de champ donne la possibilité de relier deux dossiers déposés sur **demarche.numerique.gouv.fr** entre eux.
+
+Exemple : je fais une demande de subvention en 2019 et en 2020, je dois en faire le bilan. En choisissant ce type de champ, l’usager indique seulement le numéro du dossier 2019 dans son dossier 2020, et l’instructeur peut alors accéder facilement à la demande grâce à un lien présent dans le bilan.
+
+<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption><p>Champ "lien vers un autre dossier" en tant qu'usager</p></figcaption></figure>
+
+Pour accéder au premier dossier déposé par l'usager, l'instructeur de la seconde démarche devra également être instructeur de la première démarche. Il lui suffira alors de cliquer sur le lien du dossier, comme ci-dessous :
+
+<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption><p>Champ "lien vers un autre dossier", en tant qu'instructeur</p></figcaption></figure>
