@@ -22,6 +22,8 @@ Pour le champ « Communes », les usagers doivent dans un premier temps entrer p
 
 ## Carte
 
+Le champ *Carte* permet à l'usager de saisir des données cartographiques en ajoutant un point GPS, en traçant une ligne, en dessinant un polygone, en sélectionnant une parcelle cadastrale ou encore en important un fichier au format GPX ou KML. Il s'appuie sur l'API Geo
+
 Du point de vue de l'administrateur, lorsque le champ "carte" est sélectionné, il peut choisir de faire figurer les informations suivantes:
 
 * Unesco
@@ -38,9 +40,4 @@ Du point de vue de l'administrateur, lorsque le champ "carte" est sélectionné,
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2025-10-28 à 10.24.08.png" alt=""><figcaption></figcaption></figure>
 
-Ce champ permet de faire appel à l’API géo. Sur un fond de carte, l’usager peut dessiner la localisation de son projet. Sont alors automatiquement ressortis les champs sélectionnés au préalable (Réserves naturelles, cadastres, etc) . Vous pouvez consulter le tutoriel dédié en cliquant [ici.](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/cartographie)
-
-<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption><p>Champ "Carte" en tant qu'usager</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-10-28 à 10.40.49.png" alt=""><figcaption></figcaption></figure>
-
+Consultez la section dédiée à la cartographie dans le guide usager pour voir comment l'usager peut utiliser le champ *Carte*
