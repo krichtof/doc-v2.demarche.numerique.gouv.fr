@@ -16,7 +16,7 @@
 * [Créer un formulaire](edition-dun-formulaire/creer-un-formulaire.md)
 * [Les attributs des champs](edition-dun-formulaire/attributs-champs.md)
 * [Les différents types de champ](edition-dun-formulaire/types-champs/README.md)
-  * [Structure des champs](edition-dun-formulaire/types-champs/structure-des-champs.md)
+  * [Structure du formulaire](edition-dun-formulaire/types-champs/structure-des-champs.md)
   * [Etat civil](edition-dun-formulaire/types-champs/etat-civil.md)
   * [Localisation](edition-dun-formulaire/types-champs/localisation.md)
   * [Paiement et identification](edition-dun-formulaire/types-champs/paiement-et-identification.md)
