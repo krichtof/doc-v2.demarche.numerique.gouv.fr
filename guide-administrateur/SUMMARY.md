@@ -19,7 +19,7 @@
   * [Structure du formulaire](edition-dun-formulaire/types-champs/structure-des-champs.md)
   * [Champs standards](edition-dun-formulaire/types-champs/standard.md)
   * [Choix](edition-dun-formulaire/types-champs/choix.md)
-  * [Identification et coordonnées](edition-dun-formulaire/types-champs/etat-civil.md)
+  * [Identification et coordonnées](edition-dun-formulaire/types-champs/identification-coordonnees.md)
   * [Localisation](edition-dun-formulaire/types-champs/localisation.md)
   * [Champs automatisés FranceConnect](edition-dun-formulaire/types-champs/champs-automatises-franceconnect.md)
   * [Paiement et identification](edition-dun-formulaire/types-champs/paiement-et-identification.md)
