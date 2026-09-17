@@ -14,6 +14,7 @@
 
 ## Edition d'un formulaire
 
+* [Créer un formulaire](edition-dun-formulaire/creer-un-formulaire.md)
 * [Les attributs des champs](edition-dun-formulaire/attributs-champs.md)
 * [Les différents types de champ](edition-dun-formulaire/types-champs.md)
 * [Modifier son formulaire](edition-dun-formulaire/modifier-formulaire.md)
