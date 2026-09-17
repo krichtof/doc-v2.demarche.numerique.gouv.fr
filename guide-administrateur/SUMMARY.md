@@ -15,7 +15,14 @@
 
 * [Créer un formulaire](edition-dun-formulaire/creer-un-formulaire.md)
 * [Les attributs des champs](edition-dun-formulaire/attributs-champs.md)
-* [Les différents types de champ](edition-dun-formulaire/types-champs.md)
+* [Les différents types de champ](edition-dun-formulaire/types-champs/README.md)
+  * [Structure des champs](edition-dun-formulaire/types-champs/structure-des-champs.md)
+  * [Etat civil](edition-dun-formulaire/types-champs/etat-civil.md)
+  * [Localisation](edition-dun-formulaire/types-champs/localisation.md)
+  * [Paiement et identification](edition-dun-formulaire/types-champs/paiement-et-identification.md)
+  * [Standard](edition-dun-formulaire/types-champs/standard.md)
+  * [Choix](edition-dun-formulaire/types-champs/choix.md)
+  * [Referentiel externe](edition-dun-formulaire/types-champs/referentiel-externe.md)
 * [Modifier son formulaire](edition-dun-formulaire/modifier-formulaire.md)
 * [Ajouter des logiques conditionnelles](edition-dun-formulaire/champs-conditionnel.md)
 
