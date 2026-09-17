@@ -33,6 +33,7 @@
 * [Exporter les dossiers](exporter-les-dossiers/exporter-les-dossiers.md)
 * [Exporter les pièces jointes](exporter-les-dossiers/exporter-les-pieces-jointes.md)
 * [Personnaliser les exports](exporter-les-dossiers/personnaliser-les-exports.md)
+* [Export et macros](exporter-les-dossiers/export-et-macros.md)
 
 ## Autres fonctionnalités
 
