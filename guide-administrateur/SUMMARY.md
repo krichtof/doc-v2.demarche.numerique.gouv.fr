@@ -22,7 +22,6 @@
   * [Identification et coordonnées](edition-dun-formulaire/types-champs/identification-coordonnees.md)
   * [Localisation](edition-dun-formulaire/types-champs/localisation.md)
   * [Champs automatisés FranceConnect](edition-dun-formulaire/types-champs/champs-automatises-franceconnect.md)
-  * [Paiement et identification](edition-dun-formulaire/types-champs/paiement-et-identification.md)
   * [Referentiel configurable](edition-dun-formulaire/types-champs/referentiel-externe.md)
 * [Modifier son formulaire](edition-dun-formulaire/modifier-formulaire.md)
 * [Ajouter des logiques conditionnelles](edition-dun-formulaire/champs-conditionnel.md)
