@@ -22,7 +22,7 @@
   * [Paiement et identification](edition-dun-formulaire/types-champs/paiement-et-identification.md)
   * [Standard](edition-dun-formulaire/types-champs/standard.md)
   * [Choix](edition-dun-formulaire/types-champs/choix.md)
-  * [Referentiel externe](edition-dun-formulaire/types-champs/referentiel-externe.md)
+  * [Referentiel configurable](edition-dun-formulaire/types-champs/referentiel-externe.md)
 * [Modifier son formulaire](edition-dun-formulaire/modifier-formulaire.md)
 * [Ajouter des logiques conditionnelles](edition-dun-formulaire/champs-conditionnel.md)
 
