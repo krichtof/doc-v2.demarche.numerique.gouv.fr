@@ -22,10 +22,10 @@ Le principe est le même, il vous suffit de rechercher la démarche que vous sou
 
 En clonant la démarche, le gain de temps est considérable ! Il vous suffira uniquement de modifier la démarche afin de la personnaliser en fonction de vos besoins !
 
-**Enfin, nous mettons également à votre disposition des démarches modèles prêtes à l'emploi . Voici le lien vers la documentation dédiée :** [https://doc.demarche.numerique.gouv.fr/listes-des-demarches/demarches-modeles-a-dupliquer](https://doc.demarche.numerique.gouv.fr/listes-des-demarches/demarches-modeles-a-dupliquer)
-
 {% hint style="info" %}
 **ATTENTION** : les administrateurs ont la liberté de choisir l'intitulé de leurs démarches, il n’est donc pas toujours homogène. Nous vous conseillons de tester plusieurs mots-clés pour une même recherche.
 
 Exemple : pour la dotation aux équipements pour les territoires ruraux, on peut aussi tester le sigle DETR.
 {% endhint %}
+
+Vous pouvez également utiliser [l'annuaire des démarches](./), qui contient l'ensemble des démarches publiées sur Démarche Numérique, notamment des démarches modèles prêtes à emploi pour être clonées.

@@ -1,16 +1,15 @@
 # Table of contents
 
-* [Bienvenue](README.md)
-
 ## Accès à l'administration
 
-* [Créer un compte administrateur](acces-a-ladministration/creer-un-compte-admin.md)
+* [Créer un compte administrateur](README.md)
 * [Se connecter à DN](acces-a-ladministration/se-connecter-a-dn.md)
 
 ## Création d'une démarche
 
 * [Créer une démarche](creation-dune-demarche/creer-demarche.md)
 * [Décrire sa démarche](creation-dune-demarche/decrire-sa-demarche.md)
+* [Annuaire des démarches](creation-dune-demarche/readme.md)
 
 ## Edition d'un formulaire
 
