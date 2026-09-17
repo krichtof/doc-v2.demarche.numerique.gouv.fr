@@ -1,11 +1,5 @@
 # Choix
 
-## Case à cocher seule
-
-Ce type de champ insère à gauche du libellé du champ une case que l'usager peut cocher.
-
-<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption><p>Champ "case à cocher seule", en tant qu'usager</p></figcaption></figure>
-
 ## Choix simple
 
 ### Manuelle
@@ -55,3 +49,10 @@ Les titres des menus déroulant liés doivent donc être encadrés par des doubl
 L'usager peut répondre « Oui » ou « Non » à la question posée dans le libellé du champ.
 
 <figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption><p>Champ "Oui/non" en tant qu'usager</p></figcaption></figure>
+
+## Case à cocher seule
+
+Ce type de champ insère à gauche du libellé du champ une case que l'usager peut cocher.
+
+<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption><p>Champ "case à cocher seule", en tant qu'usager</p></figcaption></figure>
+

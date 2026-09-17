@@ -24,18 +24,6 @@ L'usager doit renseigner un nombre qui peut être décimal.
 
 <figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption><p>Champ "nombre décimal", en tant qu'usager</p></figcaption></figure>
 
-## Date
-
-L'usager doit renseigner une date au format jj/mm/aaaa.
-
-<figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption><p>Champ "date" , en tant qu'usager</p></figcaption></figure>
-
-## Date et Heure
-
-L'usager doit renseigner une date et un horaire.
-
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption><p>Champ "date et heure" en tant qu'usager</p></figcaption></figure>
-
 ## Champ formaté
 
 Vous avez la possibilité de formater un champ selon le format de votre choix. Deux options s'offrent à vous:
@@ -56,6 +44,17 @@ Voici l'écran en cas d'erreur dans la saisie, bloquant le dépôt du dossier.
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2025-03-26 à 12.05.51.png" alt=""><figcaption></figcaption></figure>
 
+## Date
+
+L'usager doit renseigner une date au format jj/mm/aaaa.
+
+<figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption><p>Champ "date" , en tant qu'usager</p></figcaption></figure>
+
+## Date et Heure
+
+L'usager doit renseigner une date et un horaire.
+
+<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption><p>Champ "date et heure" en tant qu'usager</p></figcaption></figure>
 
 ## Pièce à joindre
 
