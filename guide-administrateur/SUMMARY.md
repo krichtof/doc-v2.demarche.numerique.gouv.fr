@@ -10,6 +10,7 @@
 * [Créer une démarche](creation-dune-demarche/creer-demarche.md)
 * [Décrire sa démarche](creation-dune-demarche/decrire-sa-demarche.md)
 * [Annuaire des démarches](creation-dune-demarche/readme.md)
+* [Bonnes pratiques](creation-dune-demarche/bonnes-pratiques.md)
 
 ## Edition d'un formulaire
 
