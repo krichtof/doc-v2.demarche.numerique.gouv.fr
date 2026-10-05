@@ -29,6 +29,7 @@
 
 ## Configuration d'une démarche
 
+* [Ajouter des règles d'inéligibilité](configuration-dune-demarche/ajouter-des-regles-dineligibilite.md)
 * [Proposer des annotations privées réservées aux instructeurs](configuration-dune-demarche/annotations-privees.md)
 * [Informer l'usager sur l'état d'avancement de sa démarche](configuration-dune-demarche/avancement-demarche.md)
 * [Nommer les instructeurs](configuration-dune-demarche/nommer-instructeurs.md)
