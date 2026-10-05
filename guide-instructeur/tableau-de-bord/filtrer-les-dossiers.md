@@ -19,7 +19,7 @@ Les filtres sont les suivants:
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-11-21 à 16.34.04.png" alt=""><figcaption></figcaption></figure>
 
-## Depuis le bouton "personnaliser"\*\*
+## Depuis le bouton "Personnaliser"
 
 **Vous pouvez personnaliser les filtres des champs à partir du bouton "personnaliser" et conserver ces filtres.**
 
