@@ -1,27 +1,32 @@
-# Table of contents
+# Summary
 
-* [Welcome](README.md)
-
-## Getting Started
-
-* [Getting started](getting-started/getting-started.md)
-* [Quickstart](getting-started/quickstart.md)
-* [Your first project](getting-started/your-first-project.md)
-
-## Core concepts
-
-* [Core concepts](core-concepts/core-concepts.md)
-* [Workspaces and projects](core-concepts/workspaces-and-projects.md)
-* [Permissions](core-concepts/permissions.md)
-
-## Guides
-
-* [Guides](guides/guides.md)
-* [Custom domains](guides/custom-domains.md)
-* [Automations](guides/automations.md)
-
-## Reference
-
-* [Reference](reference/reference.md)
-* [Configuration](reference/configuration.md)
-* [Glossary](reference/glossary.md)
+* [Bienvenue](readme.md)
+* [Plateforme ou administration : à qui s'adresser ?](a-qui-sadresser.md)
+* [Le parcours d'un dossier](parcours-dun-dossier.md)
+* [Commencer ma démarche](commencer-ma-demarche/readme.md)
+  * [Trouver le lien de ma démarche](commencer-ma-demarche/trouver-ma-demarche.md)
+  * [Créer un compte ou me connecter](commencer-ma-demarche/se-connecter.md)
+  * [Choisir pour qui je dépose](commencer-ma-demarche/choisir-pour-qui-deposer.md)
+* [Remplir mon dossier](remplir-mon-dossier/readme.md)
+  * [Comprendre le formulaire](remplir-mon-dossier/comprendre-le-formulaire.md)
+  * [Joindre des pièces justificatives](remplir-mon-dossier/joindre-des-pieces-justificatives.md)
+  * [Inviter quelqu'un à compléter mon dossier](remplir-mon-dossier/inviter-quelquun.md)
+  * [Si mon dossier est inéligible](remplir-mon-dossier/dossier-ineligible.md)
+  * [Consulter le cadre juridique et les statistiques de la démarche](remplir-mon-dossier/cadre-juridique-et-statistiques.md)
+* [Déposer mon dossier](deposer-mon-dossier/readme.md)
+  * [Déposer le dossier](deposer-mon-dossier/deposer-le-dossier.md)
+  * [Récupérer mon attestation de dépôt et mon dossier en PDF](deposer-mon-dossier/attestation-et-pdf.md)
+* [Suivre mon dossier](suivre-mon-dossier/readme.md)
+  * [Les statuts d'un dossier](suivre-mon-dossier/statuts-dun-dossier.md)
+  * [Mon tableau de bord](suivre-mon-dossier/tableau-de-bord.md)
+  * [Échanger avec l'administration](suivre-mon-dossier/echanger-avec-ladministration.md)
+  * [Corriger ou modifier mon dossier](suivre-mon-dossier/corriger-ou-modifier.md)
+* [Après la décision](apres-la-decision/readme.md)
+  * [Consulter la décision](apres-la-decision/consulter-la-decision.md)
+  * [Durée de conservation de mon dossier](apres-la-decision/duree-de-conservation.md)
+* [Gérer mes dossiers](gerer-mes-dossiers/readme.md)
+  * [Dupliquer un dossier ou en commencer un nouveau](gerer-mes-dossiers/dupliquer-ou-recommencer.md)
+  * [Transférer un dossier](gerer-mes-dossiers/transferer-un-dossier.md)
+  * [Supprimer et restaurer un dossier](gerer-mes-dossiers/supprimer-et-restaurer.md)
+  * [Gérer mon compte](gerer-mes-dossiers/gerer-mon-compte.md)
+* [Besoin d'aide ?](besoin-daide.md)
