@@ -1,6 +1,6 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Doc DN v2
+  title: Doc DN v2 (ancien - gelé)
   structure:
     - type: section
       key: section-1
